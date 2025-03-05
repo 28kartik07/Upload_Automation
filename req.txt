@@ -1,0 +1,11 @@
+requests
+moviepy
+yt-dlp
+open-tts
+imageio_ffmpeg
+imageio[ffmpeg]
+pytube
+instagrapi
+schedule
+opencv-python
+python-dotenv
